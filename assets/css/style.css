@@ -204,7 +204,7 @@ header .navbar ul li a:hover {
 }
 .home .content {
   flex: 1 1 40rem;
-  padding-top: 3.5rem;
+  padding-top: 3rem;
   z-index: 1;
 }
 .home .image {
