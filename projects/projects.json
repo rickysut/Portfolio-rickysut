@@ -1,93 +1,84 @@
 [
   {
-    "name": "Company profile",
-    "desc": "Single page company profile.",
+    "name": "Erpnext Project",
+    "desc": "Erpnext Project for printing company",
+    "image": "erpnext",
+    "category": "webapp",
+    "links": {
+      "view": "https://erpnext.com/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Studio Renang",
+    "desc": "IoT Smart Sensor Dashboard",
+    "image": "studiorenang",
+    "category": "Dashboard Panel",
+    "links": {
+      "view": "https://studiorenang.qreathink.my.id/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "POS",
+    "desc": "POS Integrated with ERPNEXT",
+    "image": "pos_erp",
+    "category": "Web app",
+    "links": {
+      "view": "https://erpkeytech.com",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Wahana Tatar Wirakelola",
+    "desc": "Wahana Tatar Wirakelola is Corporate Learning Specialist.",
     "image": "wahanatatar",
-    "category": "web",
+    "category": "web & cms",
     "links": {
       "view": "https://wahanatatar.com",
-      "code": "https://github.com/sultanjawer/wahanatatar3"
+      "code": "#"
     }
   },
   {
-    "name": "Company profile",
-    "desc": "Single page company profile.",
-    "image": "ivander",
-    "category": "web",
+    "name": "Indonesia-Australia Skills Exchange",
+    "desc": "The Indonesia-Australia Skills Exchange is a platform connecting Australian education providers with Indonesian businesses to boost workplace skills",
+    "image": "iaskills",
+    "category": "web apps",
     "links": {
-      "view": "#",
-      "code": "https://github.com/rickysut/ivanderweb"
+      "view": "https://www.iaskills.org/",
+      "code": "#"
     }
   },
   {
-    "name": "Web Profile",
-    "desc": "Fully customize Web Profile",
-    "image": "rickyistheone",
-    "category": "web",
-    "links": {
-      "view": "https://ricky-is-the.one",
-      "code": "https://github.com/rickysut/Portfolio-rickysut"
-    }
-  },
-  {
-    "name": "Company Profile",
-    "desc": "Bootstrap company profile web template",
+    "name": "Wikaniaga Sukses",
+    "desc": "Importir, Distributor & Supplier Glass Tools",
     "image": "wikaniagasukses",
-    "category": "web",
+    "category": "Company Profile",
     "links": {
       "view": "https://wikaniagasukses.com/",
       "code": "#"
     }
   },
   {
-    "name": "Company Profile",
-    "desc": "Bootstrap company profile with cms web template. ",
-    "image": "viralniagaberjaya",
-    "category": "web",
+    "name": "Simevi - Dept Pertanian",
+    "desc": "Smart Integrated dashboard.",
+    "image": "simevi_rebrandz",
+    "category": "Dashboard Panel",
     "links": {
-      "view": "https://viralniagaberjaya.com/",
-      "code": "https://github.com/rickysut/vnb"
-    }
-  },
-  {
-    "name": "Admin panel hack games",
-    "desc": "Full-Stack Laravel project dashboard.",
-    "image": "genesis",
-    "category": "Laravel",
-    "links": {
-      "view": "https://genesis-neo.net",
+      "view": "https://simevi.hortikultura.pertanian.go.id/",
       "code": "#"
     }
   },
   {
-    "name": "Dashboard Admin",
-    "desc": "Full-stack Laravel dashboard.",
-    "image": "simevi_rebrandz",
+    "name": "Simethris - Dept Pertanian",
+    "desc": "SIMETHRIS (Sistem Monitoring Tanam Hortikultura Strategis) .",
+    "image": "simethris",
     "category": "laravel",
     "links": {
-      "view": "https://simevi.rebrandz.xyz",
-      "code": "https://github.com/rickysut/simevi"
-    }
-  },
-  {
-    "name": "Dashboard Admin",
-    "desc": "Full-stack Laravel dashboard.",
-    "image": "simethris_rebrandz",
-    "category": "laravel",
-    "links": {
-      "view": "https://simethris.rebrandz.xyz",
-      "code": "https://github.com/rickysut/lasimethris02"
-    }
-  },
-  {
-    "name": "Moodle Dashboard Admin",
-    "desc": "Full-stack Laravel dashboard for moodle",
-    "image": "untarbo",
-    "category": "laravel",
-    "links": {
-      "view": "https://devuntarbo.bahaso.com",
+      "view": "https://simethris.hortikultura.pertanian.go.id/",
       "code": "#"
     }
   }
+  
   
 ]

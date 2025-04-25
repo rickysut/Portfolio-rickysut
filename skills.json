@@ -66,6 +66,10 @@
     {
         "name": "Node JS NEXT JS EXPRESS",
         "icon": "https://nodejs.org/static/images/logo.svg"
+    },
+    {
+        "name": "Frappe Framework",
+        "icon": "https://frappeframework.com/files/imagebd7797.png"
     }
     
   
